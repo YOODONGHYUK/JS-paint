@@ -70,12 +70,10 @@ function handleModeClick() {
 function handleCanvasClick() {
     if (filling) {
         ctx.fillRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
-    } else {
-
     }
-
 }
 
+// prevent rmb for saving function
 function handleCM(event) {
     event.preventDefault();
 }

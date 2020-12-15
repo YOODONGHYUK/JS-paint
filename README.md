@@ -2,7 +2,10 @@
 
 Painting Board made with VanillaJS
 
-## Features
+##Link
+https://yoodonghyuk.github.io/JS-paint/
+
+### Features
 
 - [x] Drawing
 - [x] Change brush Colors

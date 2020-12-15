@@ -58,7 +58,7 @@ function handleRangeChange(event) {
 function handleModeClick() {
     if (filling === true) {
         filling = false;
-        mode.innerText = "Fill"
+        mode.innerText = "Fill";
     } else {
         filling  = true;
         mode.innerText = "Paint";
@@ -97,7 +97,7 @@ if (canvas) {
 Array.from(colors).forEach(color => color.addEventListener("click", handleColorClick));
 
 if (range) {
-    range.addEventListener("input", handleRangeChange)
+    range.addEventListener("input", handleRangeChange);
 }
 
 if (mode) {

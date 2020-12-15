@@ -2,7 +2,7 @@
 
 Painting Board made with VanillaJS
 
-##Link
+## Link
 https://yoodonghyuk.github.io/JS-paint/
 
 ### Features

@@ -1,6 +1,6 @@
 # Vanilla JS Paint Board
 
-Painting Board made with VanillaJS
+Canvas, Painting Board made with VanillaJS
 
 ## Link
 https://donghyuk-yoo.github.io/JS-paint/

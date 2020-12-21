@@ -6,7 +6,7 @@ Canvas, Painting Board made with VanillaJS
 https://donghyuk-yoo.github.io/JS-paint/
 
 ### Features
-
+- [x] Canvas
 - [x] Drawing
 - [x] Change brush Colors
 - [x] Change brush thickness
